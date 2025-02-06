@@ -12,7 +12,7 @@ The aim of the project was to find whether the reviews given by people were posi
 
 -> Approach
 
-1)Preprocess and cleaned the text.
+1)Preprocessed and cleaned the text.
    
 2)I used three different methods for this. TFIDF,BOW, Word2vec after preprocessing the text(cleaning, removing stopwords, and applying stemming/ lemmatization).
 
